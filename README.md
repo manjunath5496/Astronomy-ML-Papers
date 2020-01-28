@@ -327,19 +327,21 @@ Networks and Cosmological Simulations</a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(181).pdf" style="text-decoration:none;">Predicting Solar Flares Using a Long Short-Term Memory Network</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(182).pdf" style="text-decoration:none;">Galaxy Zoo: Probabilistic Morphology through Bayesian CNNs and Active Learning </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(183).pdf" style="text-decoration:none;">Continuous-variable quantum neural networks </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(183).pdf" style="text-decoration:none;">Principal component analysis of the primordial tensor power spectrum</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(184).pdf" style="text-decoration:none;">Decoherence in a quantum neural network </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(184).pdf" style="text-decoration:none;">A Bayesian direct method implementation to fit emission line spectra: Application to the primordial He abundance
+determination</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(185).pdf" style="text-decoration:none;">Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(185).pdf" style="text-decoration:none;">Projected Pupil Plane Pattern (PPPP) with artificial Neural Networks</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(186).pdf" style="text-decoration:none;">Quantum Codes from Neural Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(186).pdf" style="text-decoration:none;">AutoRegressive Planet Search: Application to the Kepler Mission</a></b></li>
                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(187).pdf" style="text-decoration:none;">Artificial Quantum Neural Network: quantum neurons, logical elements and tests of convolutional nets</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(187).pdf" style="text-decoration:none;">Multiwavelength cluster mass estimates and machine learning</a></b></li>
                              
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(188).pdf" style="text-decoration:none;">A Universal Training Algorithm for Quantum Deep Learning </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(188).pdf" style="text-decoration:none;">Deconfusing intensity maps with neural networks</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(189).pdf" style="text-decoration:none;">Optimization of neural networks via finite-value quantum fluctuations</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(189).pdf" style="text-decoration:none;">An extended catalog of galaxy-galaxy strong gravitational lenses discovered in DES using convolutional neural
+networks</a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(190).pdf" style="text-decoration:none;">Adversarial training of quantum Born machine </a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(191).pdf" style="text-decoration:none;">Interpretable Machine Learning for Inferring the Phase Boundaries in a Non-equilibrium System  </a></b></li>
