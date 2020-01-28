@@ -172,7 +172,7 @@ Networks</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(96).pdf" style="text-decoration:none;">Classification of gravitational-wave glitches via dictionary learning</a></b></li> 
   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(97).pdf" style="text-decoration:none;">Reduced-order modeling with articial neurons for gravitational-wave inference</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(97).pdf" style="text-decoration:none;">Reduced-order modeling with artificial neurons for gravitational-wave inference</a></b></li>
 
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(98).pdf" style="text-decoration:none;">Probabilistic Random Forest: A machine learning algorithm for noisy datasets</a></b></li> 
@@ -203,7 +203,7 @@ Networks</a></b></li>
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(110).pdf" style="text-decoration:none;">Transfer Learning in Astronomy: A New Machine-Learning Paradigm</a></b></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(111).pdf" style="text-decoration:none;">Machine Learning on Dierence Image Analysis: A comparison of methods for transient detection</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(111).pdf" style="text-decoration:none;">Machine Learning on Difference Image Analysis: A comparison of methods for transient detection</a></b></li> 
   
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(112).pdf" style="text-decoration:none;">Gravitational Wave Denoising of Binary Black Hole Mergers with Deep Learning</a></b></li> 
