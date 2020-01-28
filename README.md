@@ -2,94 +2,95 @@
 
                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(1).pdf" style="text-decoration:none;">Quantum algorithms for supervised and unsupervised machine learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(1).pdf" style="text-decoration:none;">Parameterizing Stellar Spectra Using Deep Neural Networks</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(2).pdf" style="text-decoration:none;">Understanding Machine-learned Density Functionals</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(2).pdf" style="text-decoration:none;">Classifying Radio Galaxies with Convolutional Neural Network</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(3).pdf" style="text-decoration:none;">Tensor Networks for Big Data Analytics and Large-Scale Optimization Problems</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(4).pdf" style="text-decoration:none;">An exact mapping between the Variational Renormalization Group and Deep Learning</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(5).pdf" style="text-decoration:none;">Automated Search for new Quantum Experiments</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(6).pdf" style="text-decoration:none;">Quantum gate learning in qubit networks: Toffoli gate without time dependent control</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(7).pdf" style="text-decoration:none;">Quantum Boltzmann Machine</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(3).pdf" style="text-decoration:none;">Photometric redshift estimation via deep learning: Generalized and pre-classification-less, image based, fully probabilistic redshifts</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(4).pdf" style="text-decoration:none;">Deep Galaxy: Classification of Galaxies based on Deep Convolutional Neural Networks</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(5).pdf" style="text-decoration:none;">An Application of Deep Learning in the Analysis of Stellar Spectra</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(6).pdf" style="text-decoration:none;">Estimating Photometric Redshifts for X-ray sources in the X-ATLAS field, using machine-learning techniques</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(7).pdf" style="text-decoration:none;">Effective Image Differencing with ConvNets for Real-time Transient Hunting</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(8).pdf" style="text-decoration:none;"> Machine learning phases of matter </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(9).pdf" style="text-decoration:none;">Exponential Machines</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(8).pdf" style="text-decoration:none;"> Classifying Complex Faraday Spectra with Convolutional Neural Networks </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(9).pdf" style="text-decoration:none;">Assessing the Performance of a Machine Learning Algorithm in Identifying Bubbles in Dust Emission</a></b></li>
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(10).pdf" style="text-decoration:none;">Supervised Learning With Quantum-Inspired Tensor Networks </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(11).pdf" style="text-decoration:none;">Discovering Phase Transitions with Unsupervised Learning</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(12).pdf" style="text-decoration:none;">Solving the Quantum Many-Body Problem with Artificial Neural Networks</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(13).pdf" style="text-decoration:none;">Learning Thermodynamics with Boltzmann Machines</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(10).pdf" style="text-decoration:none;">Improving galaxy morphologies for SDSS with Deep Learning </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(11).pdf" style="text-decoration:none;">Glitch Classification and Clustering for LIGO with Deep Transfer Learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(12).pdf" style="text-decoration:none;">Single-epoch supernova classification with deep convolutional neural networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(13).pdf" style="text-decoration:none;">A Method Of Detecting Gravitational Wave Based On Time-frequency Analysis And Convolutional Neural Networks</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(14).pdf" style="text-decoration:none;">Machine learning quantum phases of matter beyond the fermion sign problem</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(14).pdf" style="text-decoration:none;">Towards understanding feedback from supermassive black holes using convolutional neural networks</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(15).pdf" style="text-decoration:none;">Why does deep and cheap learning work so well?</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(15).pdf" style="text-decoration:none;">Supervised detection of exoplanets in high-contrast imaging sequences</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(16).pdf" style="text-decoration:none;">Low-Rank Tensor Networks for Dimensionality Reduction and Large-Scale Optimization Problems: Perspectives and Challenges PART 1</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(16).pdf" style="text-decoration:none;">Painting galaxies into dark matter halos using machine learning</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(17).pdf" style="text-decoration:none;">Machine Learning Phases of Strongly Correlated Fermions</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(17).pdf" style="text-decoration:none;">Matching matched filtering with deep networks for gravitational-wave astronomy</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(18).pdf" style="text-decoration:none;">By-passing the Kohn-Sham equations with machine learning</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(18).pdf" style="text-decoration:none;">Improving science yield for NASA Swift with automated planning technologies</a></b></li> 
 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(19).pdf" style="text-decoration:none;">Pure density functional for strong correlations and the thermodynamic limit from machine learning</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(19).pdf" style="text-decoration:none;">Radio Galaxy Zoo: Compact and extended radio source classification with deep learning</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(20).pdf" style="text-decoration:none;">Machine learning topological states</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(20).pdf" style="text-decoration:none;">Reionization Models Classifier using 21cm Map Deep Learning</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(21).pdf" style="text-decoration:none;">Learning phase transitions by confusion</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(22).pdf" style="text-decoration:none;">Accelerate Monte Carlo Simulations with Restricted Boltzmann Machines</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(23).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(21).pdf" style="text-decoration:none;">Fast Cosmic Web Simulations with Generative Adversarial Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(22).pdf" style="text-decoration:none;">Automatic physical inference with information maximising neural networks</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(23).pdf" style="text-decoration:none;">Deep Learning Classification in Asteroseismology Using an Improved Neural Network: Results on 15000 Kepler Red Giants and Applications to K2 and TESS Data</a></b></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(24).pdf" style="text-decoration:none;">A Neural Decoder for Topological Codes</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(24).pdf" style="text-decoration:none;">Integrating human and machine intelligence in galaxy morphology classification tasks</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(25).pdf" style="text-decoration:none;">Quantum Loop Topography for Machine Learning</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(26).pdf" style="text-decoration:none;">Sampling algorithms for validation of supervised learning models for Ising-like systems</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(27).pdf" style="text-decoration:none;">Quantum Machine Learning</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(25).pdf" style="text-decoration:none;">Lunar Crater Identification via Deep Learning</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(26).pdf" style="text-decoration:none;">Applying Deep Learning to Fast Radio Burst Classification</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(27).pdf" style="text-decoration:none;">Predicting the Neutral Hydrogen Content of Galaxies From Optical Data Using Machine Learning</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(28).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method in Fermion Systems</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(28).pdf" style="text-decoration:none;">Classification of simulated radio signals using Wide Residual Networks for use in the search for extra-terrestrial
+intelligence</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(29).pdf" style="text-decoration:none;">Tomography and Generative Data Modeling via Quantum Boltzmann Training</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(29).pdf" style="text-decoration:none;">A high-bias, low-variance introduction to Machine Learning for physicists</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(30).pdf" style="text-decoration:none;">Reinforcement Learning Using Quantum Boltzmann Machines</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(30).pdf" style="text-decoration:none;">Dissecting stellar chemical abundance space with t-SNE</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(31).pdf" style="text-decoration:none;">Restricted Boltzmann Machines for the Long Range Ising Models</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(32).pdf" style="text-decoration:none;">Equivalence of restricted Boltzmann machines and tensor network states</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(31).pdf" style="text-decoration:none;">Image-based deep learning for classification of noise transients in gravitational wave detectors</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(32).pdf" style="text-decoration:none;">Return of the features: Efficient feature selection and interpretation for photometric redshifts</a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(33).pdf" style="text-decoration:none;">Quantum Entanglement in Neural Network States</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(33).pdf" style="text-decoration:none;">GAME: GAlaxy Machine learning for Emission lines</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(34).pdf" style="text-decoration:none;">Efficient Representation of Quantum Many-body States with Deep Neural Networks</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(34).pdf" style="text-decoration:none;">Application of Deep Learning methods to analysis of Imaging Atmospheric Cherenkov Telescopes data</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(35).pdf" style="text-decoration:none;">Neural network representation of tensor network and chiral states</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(35).pdf" style="text-decoration:none;">Detecting Solar-like Oscillations in Red Giants with Deep Learning</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(36).pdf" style="text-decoration:none;">Opening the black box of Deep Neural Networks via Information</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(36).pdf" style="text-decoration:none;">MADE: A spectroscopic Mass, Age, and Distance Estimator for red giant stars with Bayesian machine learning</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(37).pdf" style="text-decoration:none;">Unsupervised learning of phase transitions: from principal component analysis to variational autoencoders</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(38).pdf" style="text-decoration:none;">Neural-network quantum state tomography for many-body systems</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(39).pdf" style="text-decoration:none;">Experimental Quantum Hamiltonian Learning</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(40).pdf" style="text-decoration:none;">Discovering Phases, Phase Transitions and Crossovers through Unsupervised Machine Learning: A critical examination</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(41).pdf" style="text-decoration:none;">Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(42).pdf" style="text-decoration:none;">Probing many-body localization with neural networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(37).pdf" style="text-decoration:none;">Deep learning from 21-cm tomography of the Cosmic Dawn and Reionization</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(38).pdf" style="text-decoration:none;">A volumetric deep Convolutional Neural Network for simulation of mock dark matter halo catalogues</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(39).pdf" style="text-decoration:none;">Machine-learning identification of extragalactic objects in the optical-infrared all-sky surveys</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(40).pdf" style="text-decoration:none;">Habitability Classification of Exoplanets: A Machine Learning Insight</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(41).pdf" style="text-decoration:none;">Using transfer learning to detect galaxy mergers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(42).pdf" style="text-decoration:none;">Radio Galaxy Zoo: ClaRAN | a deep learning classifier for radio morphologies</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(43).pdf" style="text-decoration:none;">Approximating quantum many-body wave-functions using artificial neural networks</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(44).pdf" style="text-decoration:none;">Deterministic Quantum Annealing Expectation-Maximization Algorithm</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(45).pdf" style="text-decoration:none;">Kernel methods for interpretable machine learning of order parameters</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(43).pdf" style="text-decoration:none;">SBAF: A New Activation Function for Artificial Neural Net based Habitability Classification</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(44).pdf" style="text-decoration:none;">ExoGAN: Retrieving Exoplanetary Atmospheres Using Deep Convolutional Generative Adversarial Networks</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(45).pdf" style="text-decoration:none;">Supervised Machine Learning for Analysing Spectra of Exoplanetary Atmospheres</a></b></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(46).pdf" style="text-decoration:none;">Mutual Information, Neural Networks and the Renormalization Group</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(46).pdf" style="text-decoration:none;">Photometric redshifts from SDSS images using a Convolutional Neural Network</a></b></li> 
                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(47).pdf" style="text-decoration:none;">Nonequilibrium Thermodynamics of Restricted Boltzmann Machines</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(48).pdf" style="text-decoration:none;">Reinforcement Learning in Different Phases of Quantum Control</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(47).pdf" style="text-decoration:none;">A Machine-learning Method for Identifying Multiwavelength Counterparts of Submillimeter Galaxies: Training and Testing Using AS2UDS and ALESS</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(48).pdf" style="text-decoration:none;">Real-time multiframe blind deconvolution of solar images</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(49).pdf" style="text-decoration:none;">Decoding Small Surface Codes with Feedforward Neural Networks </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(49).pdf" style="text-decoration:none;">Resolution and accuracy of non-linear regression of PSF with artificial neural networks </a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(50).pdf" style="text-decoration:none;">A Separability-Entanglement Classifier via Machine Learning</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(51).pdf" style="text-decoration:none;">Machine Learning Z<sub>2</sub> Quantum Spin Liquids with Quasi-particle Statistics</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(52).pdf" style="text-decoration:none;">Construction of Hamiltonians by supervised learning of energy and entanglement spectra</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(50).pdf" style="text-decoration:none;">Transfer learning for galaxy morphology from one survey to another</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(51).pdf" style="text-decoration:none;">Weak-lensing shear measurement with machine learning: Teaching artificial neural networks about feature noise</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(52).pdf" style="text-decoration:none;">Identifying Reionization Sources from 21cm Maps using Convolutional Neural Networks</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(53).pdf" style="text-decoration:none;">Machine Learning of Explicit Order Parameters: From the Ising Model to SU(2) Lattice Gauge Theory </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(53).pdf" style="text-decoration:none;">Complex Fully Convolutional Neural Networks for MR Image Reconstruction</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(54).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method: Continuous-Time Algorithm </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(54).pdf" style="text-decoration:none;">Deep Learning for Image Sequence Classification of Astronomical Events </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(55).pdf" style="text-decoration:none;">Machine-learning-assisted correction of correlated qubit errors in a topological code</a></b></li>
  
