@@ -156,30 +156,30 @@ Networks</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(86).pdf" style="text-decoration:none;">Deblending galaxy superpositions with branched generative adversarial networks</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(87).pdf" style="text-decoration:none;">On the dissection of degenerate cosmologies with machine learning</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(88).pdf" style="text-decoration:none;">A Correspondence Between Random Neural Networks and Statistical Field Theory</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(89).pdf" style="text-decoration:none;">Learning Hidden Quantum Markov Models</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(88).pdf" style="text-decoration:none;">Distinguishing standard and modied gravity cosmologies with machine learning</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(89).pdf" style="text-decoration:none;">A hybrid approach to machine learning annotation of large galaxy image databases</a></b></li>
   
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(90).pdf" style="text-decoration:none;">Machine learning vortices at the Kosterlitz-Thouless transition</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(91).pdf" style="text-decoration:none;">Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(90).pdf" style="text-decoration:none;">Towards a radially-resolved semi-analytic model for the evolution of disc galaxies tuned with machine learning</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(91).pdf" style="text-decoration:none;">Scientific Domain Knowledge Improves Exoplanet Transit Classification with Deep Learning</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(92).pdf" style="text-decoration:none;">Machine learning out-of-equilibrium phases of matter</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(93).pdf" style="text-decoration:none;"> An efficient quantum algorithm for generative machine learning</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(94).pdf" style="text-decoration:none;">Hardening Quantum Machine Learning Against Adversaries</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(92).pdf" style="text-decoration:none;">Applying deep neural networks to the detection and space parameter estimation of compact binary coalescence with a network of gravitational wave detectors</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(93).pdf" style="text-decoration:none;"> Forging new worlds: high-resolution synthetic galaxies with chained generative adversarial networks</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(94).pdf" style="text-decoration:none;">Deep Learning Applied to the Asteroseismic Modeling of Stars with Coherent Oscillation Modes</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(95).pdf" style="text-decoration:none;">Experimental learning of quantum states</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(95).pdf" style="text-decoration:none;">Finding high-redshift strong lenses in DES using convolutional neural networks</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(96).pdf" style="text-decoration:none;">Deep Neural Network Detects Quantum Phase Transition</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(96).pdf" style="text-decoration:none;">Classification of gravitational-wave glitches via dictionary learning</a></b></li> 
   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(97).pdf" style="text-decoration:none;">Towards reduction of autocorrelation in HMC by machine learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(97).pdf" style="text-decoration:none;">Reduced-order modeling with articial neurons for gravitational-wave inference</a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(98).pdf" style="text-decoration:none;">Information Perspective to Probabilistic Modeling: Boltzmann Machines versus Born Machines</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(98).pdf" style="text-decoration:none;">Probabilistic Random Forest: A machine learning algorithm for noisy datasets</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(99).pdf" style="text-decoration:none;">A Quantum Extension of Variational Bayes Inference</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(99).pdf" style="text-decoration:none;">Machine-learning Approaches to Exoplanet Transit Detection and Candidate Validation in Wide-field Ground-based Surveys</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(100).pdf" style="text-decoration:none;">A quantum algorithm to train neural networks using low-depth circuits</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(100).pdf" style="text-decoration:none;">Classification of Multiwavelength Transients with Machine Learning</a></b></li>  
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(101).pdf" style="text-decoration:none;">Pattern recognition techniques for Boson Sampling validation</a></b></li> 
   
