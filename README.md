@@ -208,7 +208,7 @@ Networks</a></b></li>
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(112).pdf" style="text-decoration:none;">Gravitational Wave Denoising of Binary Black Hole Mergers with Deep Learning</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(113).pdf" style="text-decoration:none;">deepCool: Fast and Accurate Estimation of Cooling Rates in Irradiated Gas with Articial Neural Networks</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(113).pdf" style="text-decoration:none;">deepCool: Fast and Accurate Estimation of Cooling Rates in Irradiated Gas with Artificial Neural Networks</a></b></li>  
    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(114).pdf" style="text-decoration:none;">Star formation rates and stellar masses from machine learning</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(115).pdf" style="text-decoration:none;">Accurate Identification of Galaxy Mergers with Imaging</a></b></li>  
